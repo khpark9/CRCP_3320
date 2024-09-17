@@ -3,9 +3,8 @@ dog
 parrot
 car 
 snow 
-red 
+balloon 
 blue 
 turtle
 pink
-yellow
-rooster
+
