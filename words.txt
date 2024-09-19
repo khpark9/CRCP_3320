@@ -2,8 +2,10 @@ cat
 dog
 parrot
 car 
-quail
-forest 
+quail 
+forest
+red
+sink
 blue 
 turtle
 pink
