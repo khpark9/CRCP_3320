@@ -2,11 +2,11 @@ cat
 dog
 parrot
 car 
-snow 
-balloon 
+quail
+forest 
 blue 
 turtle
 pink
 flower
 house
-
+tent
