@@ -4,7 +4,7 @@
 
 ---- 
 
-<img src="../../images/ice.jpg" width="250" alt="A picture of ice cubes."></img>
+<img src="../../images/ice.jpg" width="250" alt="A picture of ice cubes." />
 
 ----
 
