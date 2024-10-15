@@ -13,3 +13,5 @@ This is a page for the GitHub Pages site.
 
 <!-- html syntax -->
 <a href="./index10_10.html"> Link to October 10 HTML </a>
+
+[Pictures](./2024_10_15/index.md)
