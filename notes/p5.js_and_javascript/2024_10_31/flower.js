@@ -1,5 +1,0 @@
-// Flower class
-
-class Flower {
-    
-}
