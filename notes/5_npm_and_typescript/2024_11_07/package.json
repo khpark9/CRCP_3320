@@ -1,0 +1,17 @@
+{
+    "name": "2024-11-07",
+    "version": "1.0.0",
+    "private": true,
+    "scripts": {},
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "description": "",
+    "dependencies": {
+        "p5": "^1.11.1"
+    },
+    "devDependencies": {
+        "eslint": "^9.14.0",
+        "typescript": "^5.6.3"
+    }
+}
